@@ -1,3 +1,7 @@
 Prueba-Push!Texto de ElKIN
+<<<<<<< HEAD
 
 Linea 2 Elkin
+=======
+Sebastian balbalbal
+>>>>>>> origin/master
